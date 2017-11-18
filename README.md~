@@ -13,7 +13,7 @@ Liste des commandes disponibles pour le shell :
 - les commandes externes
 
 
-# Comment compiler
+# comment compiler
 
 Une fois dans le répertoire de l'application, entrez les commandes suivantes : 
 make
